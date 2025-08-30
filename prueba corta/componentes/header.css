@@ -1,0 +1,15 @@
+header {
+    height: 60px;
+    border: 2px solid black;
+
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    font-size: 40px;
+}
+
+.nombre{
+    font-size: 25px;
+}

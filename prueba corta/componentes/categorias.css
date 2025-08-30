@@ -1,0 +1,57 @@
+categorias{
+    display: flex;
+}
+
+.uno{
+     display: inline-block;
+    border: 20px;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: aqua;
+}
+
+.dos{
+    border: 20px;
+     display: inline-block;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: blueviolet;
+}
+
+.tres{
+    border: 20px;
+     display: inline-block;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: blue;
+}
+
+.cuatro{
+    border: 20px;
+     display: inline-block;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: pink;
+}
+
+.cinco{
+    border: 20px;
+     display: inline-block;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+}
+
+.seis{
+    border: 20px;
+     display: inline-block;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: orange;
+}
